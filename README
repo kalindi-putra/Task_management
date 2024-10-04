@@ -24,7 +24,7 @@ The Task Management API is designed to allow users to manage their tasks efficie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-api.git
+   git clone https://github.com/kalindi-putra/task-management-api.git
    cd task-management-api
 
 
